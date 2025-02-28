@@ -1,3 +1,3 @@
-##Aprimorar habilidades em lógica de programação!
+Aprimorar habilidades em lógica de programação!
 
-##Abrir o código com a extensão Live Server no VSCode!
+Abrir o código com a extensão Live Server no VSCode!
